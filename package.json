@@ -1,0 +1,17 @@
+{
+  "name": "sqlitetest",
+  "version": "1.0.0",
+  "description": "An attempt to test the better-sqlite3 package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite3"
+  ],
+  "author": "Ishtehar Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.6.0"
+  }
+}
